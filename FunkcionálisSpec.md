@@ -2,6 +2,8 @@
 
 ## 1. Vágyálomrendszer leírása
 
+A projektünk egy távirányítós autó lenne, melyet mobil eszközön lehetne használni , bluetooth segítségével.
+
 ## 2. Igényelt alkatrészek
 
 ### 2.1 Szükséges:
