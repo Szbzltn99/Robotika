@@ -26,7 +26,7 @@
 ### 3.1 Elképzelés: 
  - Mobil eszközön (Bluetooth segítségével):
     
-    * start gomb lenyomására bekapcsol (a hangszóró egy induló autó hangját játsza le)
+    * bekapcsolás csak RFID segítségével (a hangszóró egy induló autó hangját játsza le)
     * gomb lenyomásra előre
     * gomb lenyomásra hátra
     * gomb lenyomásra jobbra
